@@ -1,0 +1,3 @@
+[submodule "natural_slopes"]
+	path = natural_slopes
+	url = https://github.com/tiborvansa/minetest-natural_slopes.git
